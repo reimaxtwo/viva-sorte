@@ -1,0 +1,164 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\scripts\utms\latest-1.js
+Content Type: text/javascript
+
+Uri: https://vivasorte-oficial.github.io/desconto/
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\index.htm
+Content Type: text/html
+
+Uri: https://vivasorte-oficial.github.io/desconto/css/bootstrap-icons.min.css
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\css\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://vivasorte-oficial.github.io/desconto/css/bootstrap.min.css
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://vivasorte-oficial.github.io/desconto/css/rodape.css
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\css\rodape.css
+Content Type: text/css
+
+Uri: https://vivasorte-oficial.github.io/desconto/css/style.css
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\css\style.css
+Content Type: text/css
+
+Uri: https://vivasorte-oficial.github.io/desconto/css2
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\css2
+Content Type: application/octet-stream
+
+Uri: https://vivasorte-oficial.github.io/desconto/fonts/bootstrap-icons.woff
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://vivasorte-oficial.github.io/desconto/fonts/bootstrap-icons.woff2
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://vivasorte-oficial.github.io/desconto/images/11-de-maio.mp4
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\images\11-de-maio.mp4
+Content Type: video/mp4
+
+Uri: https://vivasorte-oficial.github.io/desconto/images/edjdigital.png
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\images\edjdigital.png
+Content Type: image/png
+
+Uri: https://vivasorte-oficial.github.io/desconto/images/logo-hospital.svg
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\images\logo-hospital.svg
+Content Type: image/svg+xml
+
+Uri: https://vivasorte-oficial.github.io/desconto/images/logoviva.png
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\images\logoviva.png
+Content Type: image/png
+
+Uri: https://vivasorte-oficial.github.io/desconto/images/pattern-viva.svg
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\images\pattern-viva.svg
+Content Type: image/svg+xml
+
+Uri: https://vivasorte-oficial.github.io/desconto/images/viacap.png
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\images\viacap.png
+Content Type: image/png
+
+Uri: https://vivasorte-oficial.github.io/desconto/images/viva-hosp.svg
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\images\viva-hosp.svg
+Content Type: image/svg+xml
+
+Uri: https://vivasorte-oficial.github.io/desconto/images/viva.png
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\images\viva.png
+Content Type: image/png
+
+Uri: https://vivasorte-oficial.github.io/desconto/js/latest.js
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\desconto\js\latest.js
+Content Type: application/javascript
+
+30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://vivasorte-oficial.github.io/pv-front/
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\index.htm
+Content Type: text/html
+
+Uri: https://vivasorte-oficial.github.io/pv-front/css/bootstrap-icons.min.css
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\css\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://vivasorte-oficial.github.io/pv-front/css/bootstrap.min.css
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://vivasorte-oficial.github.io/pv-front/css/rodape.css
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\css\rodape.css
+Content Type: text/css
+
+Uri: https://vivasorte-oficial.github.io/pv-front/css/style.css
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\css\style.css
+Content Type: text/css
+
+Uri: https://vivasorte-oficial.github.io/pv-front/fonts/bootstrap-icons.woff
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://vivasorte-oficial.github.io/pv-front/fonts/bootstrap-icons.woff2
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://vivasorte-oficial.github.io/pv-front/images/11-de-maio.mp4
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\images\11-de-maio.mp4
+Content Type: video/mp4
+
+Uri: https://vivasorte-oficial.github.io/pv-front/images/edjdigital.png
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\images\edjdigital.png
+Content Type: image/png
+
+Uri: https://vivasorte-oficial.github.io/pv-front/images/logo-hospital.svg
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\images\logo-hospital.svg
+Content Type: image/svg+xml
+
+Uri: https://vivasorte-oficial.github.io/pv-front/images/logo.png
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\images\logo.png
+Content Type: image/png
+
+Uri: https://vivasorte-oficial.github.io/pv-front/images/pattern-viva.svg
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\images\pattern-viva.svg
+Content Type: image/svg+xml
+
+Uri: https://vivasorte-oficial.github.io/pv-front/images/viacap.png
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\images\viacap.png
+Content Type: image/png
+
+Uri: https://vivasorte-oficial.github.io/pv-front/images/viva-hosp.svg
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\images\viva-hosp.svg
+Content Type: image/svg+xml
+
+Uri: https://vivasorte-oficial.github.io/pv-front/images/viva.png
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\images\viva.png
+Content Type: image/png
+
+Uri: https://vivasorte-oficial.github.io/pv-front/js/bootstrap.bundle.min.js
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\pv-front\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-
+File Name: E:\DOWNLOAD\VIVASORTE\vivasorte-oficial.github.io\gtag\js
+Content Type: application/javascript
+
